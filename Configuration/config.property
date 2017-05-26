@@ -1,0 +1,3 @@
+ChromeDriver=D:\\SeleniumSetups\\ChromeDriver\\chromedriver.exe
+MozillzDriver=D:\\downloads\\geckodriver.exe
+URL=https://www.naukri.com/

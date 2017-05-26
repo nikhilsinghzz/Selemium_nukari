@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Application Started=====]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31146" started-at="2017-05-26T10:07:42Z" finished-at="2017-05-26T10:08:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31146" started-at="2017-05-26T10:07:42Z" finished-at="2017-05-26T10:08:13Z">
+      <class name="specs.NewRegistration">
+        <test-method status="PASS" signature="StartApplication()[pri:0, instance:specs.NewRegistration@29ee9faa]" name="StartApplication" is-config="true" duration-ms="18420" started-at="2017-05-26T15:37:42Z" finished-at="2017-05-26T15:38:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session Started=====]]>
+            </line>
+            <line>
+              <![CDATA[=====Application Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- StartApplication -->
+        <test-method status="PASS" signature="NewRegistration()[pri:0, instance:specs.NewRegistration@29ee9faa]" name="NewRegistration" duration-ms="12714" started-at="2017-05-26T15:38:00Z" finished-at="2017-05-26T15:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewRegistration -->
+      </class> <!-- specs.NewRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
