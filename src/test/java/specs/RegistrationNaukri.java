@@ -26,6 +26,7 @@ public class RegistrationNaukri extends BaseClass {
 	    String bodyText = driver.findElement(By.xpath("//label[@id='exstUsr']")).getText();
 	    //Thread.sleep(5000);
 	    Assert.assertTrue(bodyText.contains("nikhilsingz@gmail.com is already registered with us"), "Text not found!");
+	    System.out.println("My na sir jhon");
 			
 	}
 
